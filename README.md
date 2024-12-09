@@ -1,6 +1,6 @@
 ## im suigarra
 
-i dont make code that much
+i dont make code that much,
 focused on graphic design
 
 <div style="display: inline_block"><br>
