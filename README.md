@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <i class="gentoo-original-wordmark"></6>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original-wordmark.svg" />
+<div style="display: inline_block"><br>
+  <img align="center" alt="gentoo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gentoo/gentoo-original.svg">
+</div>
