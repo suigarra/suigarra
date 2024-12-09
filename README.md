@@ -19,5 +19,4 @@ focused on graphic design
   <a href="gentoo.org" target="_blank"><img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" target="_blank"></a>
   <a href="torproject.org" target="_blank"><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" target="_blank"></a>
   <a href="opera.com" target="_blank"><img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" target="_blank"></a>
-  <a href="gnu.org" target="_blank"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" target="_blank"></a>
 </div>
