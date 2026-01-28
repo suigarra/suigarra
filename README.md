@@ -1,1 +1,1 @@
-[![My user statistics](images/userstats.svg)]
+[![My user statistics](images/userstats.svg)
