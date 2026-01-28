@@ -24,3 +24,4 @@ jobs:
         animated-language-chart: true
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
