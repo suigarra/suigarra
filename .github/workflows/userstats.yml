@@ -2,7 +2,7 @@ name: user-statistician
 
 on:
   schedule:
-    - cron: '42 5 * * *'
+    - cron: '0 3 * * *'
   push:
     branches: [ master ]
     paths: [ '.github/workflows/userstats.yml' ]
