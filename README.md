@@ -1,3 +1,3 @@
 ![My user statistics](images/userstats.svg)
 
-![worm](images/worm.gif)
+<img src="https://count.getloli.com/@:suigarra?theme=booru-lisu"/>
